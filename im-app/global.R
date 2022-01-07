@@ -1,0 +1,10 @@
+
+library(shiny)
+library(shinythemes)
+library(mailtoR)
+library(shinyjs) 
+library(shinyFeedback)
+library(htmlwidgets)
+library(shinyjs)
+library(RColorBrewer)
+library(shinyvalidate)
